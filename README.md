@@ -32,7 +32,7 @@ while True:
                 i+=s
 ```
 
-SEVER
+SERVER
 
 ```
 import socket 
@@ -43,7 +43,7 @@ while True:
     s.send("acknowledgement recived from the server".encode())
 ```
 
-## OUPUT
+## OUTPUT
 
 CLIENT
 
